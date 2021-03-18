@@ -8,3 +8,4 @@ It then gives them the choice of undercoat, which costs an extra £0.50 per squa
 
 
 It then comes up with a text box which tells them the total area, and the total price.
+![image](https://user-images.githubusercontent.com/74416094/111641195-d299d900-87f4-11eb-8796-2aa805433c85.png)
