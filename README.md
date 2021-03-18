@@ -7,5 +7,8 @@ It then asks what paint they prefer, out of Economy, Standard and Luxury, which 
 It then gives them the choice of undercoat, which costs an extra £0.50 per square metre.
 
 
+![image](https://user-images.githubusercontent.com/74416094/111705651-f848d180-8838-11eb-94e9-2b729738efe0.png)
+
+
 It then comes up with a text box which tells them the total area, and the total price.
 ![image](https://user-images.githubusercontent.com/74416094/111705651-f848d180-8838-11eb-94e9-2b729738efe0.png)
